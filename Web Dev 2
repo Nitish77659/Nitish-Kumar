@@ -1,0 +1,25 @@
+<html>
+  <head>Web-Development Class 2</head>
+  <body>
+    <p> This is the First Paragraph.</p>
+    <span>This is Span.</span>
+    <span>The b"br" tag is used after span to break the line.</span>
+    <br/>
+    <div style="color=blue;">
+      This "div tag can be used to formatting the tags inside it atonce using'style' and 'classes' etc.
+    </div>
+    <center>
+      <h3>Heading 3 is centered.</h3>
+      <p><span>Centered span inside the paragraph.</span></p>
+    </center>
+    two horizontal line is draen using two "hr" tag.
+    <hr/>
+    <hr>
+    <pre>'pre' tag preserve the formatting(good for writing codes.).
+      # python Code
+      x = 2
+      y =3
+      print(x+y)
+    </pre>
+  </body>
+</html>
